@@ -9,7 +9,7 @@ public class ArrayCopyLab {
 	int i,size,arr1 [], arr2[];
 	
 	Scanner sc = new Scanner (System.in);
-	System.out.println("Enter th size of the Array: ");
+	System.out.println("Enter the size of the Array: ");
 	size = sc.nextInt(); //Taking Array size from the user
 	
 	arr1 = new int [size]; //Initializing Array 1
